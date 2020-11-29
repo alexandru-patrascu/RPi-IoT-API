@@ -1,2 +1,3 @@
 # RPi-IoT-API
-Base Internet of Things API for Raspberry Pi
+Base API for IoT project
+Uses Flask to expose the endpoints that controls the Raspberry Pi's GPIO
