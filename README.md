@@ -1,2 +1,2 @@
-# rpi-cms-api
-Raspberry Pi CMS API using Flask
+# RPi-IoT-API
+Base Internet of Things API for Raspberry Pi
